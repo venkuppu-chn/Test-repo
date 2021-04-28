@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   alex:
-    name: Scanning the inclusive words pop slave he
+    name: Scanning the inclusive words pop slave he she
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
